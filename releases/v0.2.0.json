@@ -1,0 +1,30 @@
+{
+  "version": "0.2.0",
+  "release_url": "https://github.com/DavidPsof/kaban-agent-releases/releases/tag/v0.2.0",
+  "packages": [
+    {
+      "platform": "windows-x86_64",
+      "file": "kaban-agent-0.2.0-windows-x86_64.exe",
+      "size": 39266652,
+      "sha256": "3f718de676879e7ee95c754b848635492283c6050d664861b9b1ba3598fa696b"
+    },
+    {
+      "platform": "linux-x86_64",
+      "file": "kaban-agent-0.2.0-linux-x86_64.AppImage",
+      "size": 150514168,
+      "sha256": "a02b537f75e878a8680c2a5eec87e60a85c720cfcc3f4d406fb507f2f4d3c77a"
+    },
+    {
+      "platform": "darwin-aarch64",
+      "file": "kaban-agent-0.2.0-darwin-aarch64.app.tar.gz",
+      "size": 78110475,
+      "sha256": "c7884567decf6db307ca19d46fba6feb82f211da73f93afb59d2f1742f9ad814"
+    },
+    {
+      "platform": "darwin-x86_64",
+      "file": "kaban-agent-0.2.0-darwin-x86_64.app.tar.gz",
+      "size": 79316176,
+      "sha256": "3432f386202f609fb375d632dee2325615dbf03b5dff7204f14aa95fe8b8deef"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+*.exe
+*.AppImage
+*.tar.gz
+*.sig
+.env*
+data/
+tmp/
